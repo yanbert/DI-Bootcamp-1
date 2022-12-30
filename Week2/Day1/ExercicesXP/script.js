@@ -13,7 +13,12 @@
     debugger;
 
     const myWatchedSeries = ["black mirror", "money heist", "the big bang theory"];
-    
+
+/******************************************************
+Correcteur: Yannick GOUGUIA
+Revoir cet exercice, mauvaise reponse a la ligne 22, 23 et 24
+*****************************************************/
+
     let myWatchedSeriesLength = 3; 
     let myWatchedSeriesSentence = ('J\'ai regardé black mirror');
     console.log('I watched 1 serie : black mirror, money heist, and the big bang theory');
@@ -44,6 +49,10 @@
 
 
 
+/******************************************************
+Correcteur: Yannick GOUGUIA
+Revoir cet exercice, mauvaise reponse
+*****************************************************/
     // exercice 3
     let temperature = 25;
     let temperature1 = " ";
