@@ -23,6 +23,11 @@
 
     // EXERCICE 2 //
 
+/******************************************************
+Correcteur: Yannick GOUGUIA
+Revoir cet exercice, PAS FAIT
+*****************************************************/
+
     /*const moreFruits = ["Banana", ["Apples", ["Oranges"], "Blueberries"]];
     const found = moreFruits.find(element ={"Orange"} element {"Orange"} "Orange");
     console.log(found);*/
